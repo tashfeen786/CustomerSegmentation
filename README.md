@@ -85,7 +85,7 @@ The aim is to help businesses **understand customer behavior**, identify **high-
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/mall-customers-clustering.git
+   git clone https://github.com/tashfeen786/mall-customers-clustering.git
    cd mall-customers-clustering
    ```
 
