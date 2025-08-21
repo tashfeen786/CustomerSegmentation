@@ -1,6 +1,6 @@
 # CustomerSegmentation
 
-# 🛍️ Mall Customers Clustering
+#  Mall Customers Clustering
 
 ## 📌 Project Overview
 
@@ -10,7 +10,7 @@ The aim is to help businesses **understand customer behavior**, identify **high-
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source**: [Mall Customers Dataset (Kaggle)](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial)
 - **Features**:
@@ -103,5 +103,5 @@ Tashfeen Aziz
 
 📌 Data Analyst | Python Developer | ML/DL Enthusiast
 
-🌐 LinkedIn
-| GitHub
+🌐 LinkedIn: https://www.linkedin.com/in/tashfeen-aziz-b51361292/
+| GitHub: https://github.com/tashfeen786 
